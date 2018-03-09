@@ -1,0 +1,2 @@
+# EtherPool
+Ethereum Pool
